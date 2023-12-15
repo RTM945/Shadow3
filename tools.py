@@ -1,0 +1,1 @@
+middle = lambda begin, n, end: max(begin, min(n, end))
